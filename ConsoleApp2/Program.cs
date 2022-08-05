@@ -2,3 +2,6 @@
 
 
 Console.WriteLine("Hello, World!");
+
+var queue = new Queue<string>();
+queue.Enqueue("hi");
